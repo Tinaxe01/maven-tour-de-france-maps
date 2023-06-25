@@ -1,4 +1,5 @@
-**Tour de France Wikipedia Routes Scraper**
+**Tour de France Wikipedia Routes Scraper**  
+
 This Python script is designed to scrape Tour de France Wikipedia routes and extract the necessary information for use in Power BI. It utilizes the Beautiful Soup, CSV, and Requests libraries to perform the scraping and data extraction tasks.
 
 The script fetches the route details from the relevant Tour de France Wikipedia pages using the requests library to make HTTP requests. The HTML content of the pages is then parsed and navigated using the Beautiful Soup library, allowing the script to extract specific data points such as start and finish locations, distances, and notable landmarks.
