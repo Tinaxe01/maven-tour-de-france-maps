@@ -32,7 +32,9 @@ The script saves the scraped data into a CSV file named "tour_de_france_routes.c
 This script utilizes the following libraries:
 
 Beautiful Soup:[Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/)
+
 CSV: Python's built-in CSV module
+
 Requests: [Requests](https://requests.readthedocs.io/)
 
 **License**
